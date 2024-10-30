@@ -1,0 +1,70 @@
+h1{
+    background-color: #DD7835;
+    color: white;
+    display: inline;
+    padding: 8px 22px;
+
+
+}
+.menu-title{
+    display: block;
+    margin: 35px 0;
+}
+body{
+margin: 0px;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("images/menu_background.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+  font-family: arial;
+
+}
+#small_logo{
+    margin-top: 25px;
+    margin-left: 35px;
+}
+li{
+list-style-type: none;
+}
+.menu-list{
+    margin-left: 30px;
+}
+.menu-list-item{
+    margin: 30px 0px;
+}
+.menu-list-title{
+    font-weight: bold;
+    font-size: 20px;
+    display: inline-block;
+    width: 350px;
+}
+.menu-prix{
+    margin-left: 8px;
+    color: #DD7835;
+    display: inline-block;
+    text-align: right;
+    width: 70px;
+    font-size: 20px;
+}
+.menu-ingredients{
+    margin-top: 4px;
+    color: #C8C8C8;
+    font-size: 14px;
+    display: block;
+    width: 300px;
+}
+.menu-badge{
+
+    background-color: green;
+    background-color: #DD7835;
+    color: black;
+    font-size: 8px;
+    padding: 3px 8px;
+    margin-top: 4px;
+    display: inline-block;
+    border-radius: 8px;
+    font-weight: bold;
+
+}
